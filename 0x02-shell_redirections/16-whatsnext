@@ -1,2 +1,2 @@
 #!/bin/bash
-grep root | tail -n3*
+grep root | tail -n 3
