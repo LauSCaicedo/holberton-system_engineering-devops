@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BREATH | $LOVE
+export echo $BREATH |echo $LOVE
