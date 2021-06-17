@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH tr ":" 'in' | wc -l
+find -type d $PATH tr ":" | wc -l
