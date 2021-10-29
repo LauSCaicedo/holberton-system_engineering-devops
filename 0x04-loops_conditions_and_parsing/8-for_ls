@@ -3,5 +3,5 @@
 
 for File in *
 do
-    echo $File | cut -d "-" -f 2
+    echo "$File" | cut -d "-" -f 2
 done
