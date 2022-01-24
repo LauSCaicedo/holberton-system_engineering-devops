@@ -1,6 +1,6 @@
 <div aling='center'>
 <h1> Firewall </h1>
-<div>
+</div>
 <img src = "https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/284/V1HjQ1Y.png" height = auto max-width = 100%;>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
